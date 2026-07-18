@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/theme-toggle",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/theme-toggle": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/theme-toggle",
+    "origin"
+  ]
+}
